@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Reshma, a Data Analytics enthusiast focused on building practical, data-driven solutions.<br><br>📊 Working with SQL, Power BI, Excel, Python & EDA<br><br>🗄️ Building projects around data analysis, business insights, dashboards, and reporting<br><br>💡 Interested in solving real-world problems through data<br><br>🚀 Currently expanding my knowledge beyond analytics into Machine Learning and AI<br><br>🧠 Continuously learning, experimenting, and improving through hands-on projects<br><br>Analyze data → Find insights → Build solutions → Keep learning.
 
 
