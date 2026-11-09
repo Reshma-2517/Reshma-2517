@@ -13,6 +13,5 @@ Hi, I'm Reshma, a Data Analytics enthusiast focused on building practical, data-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Reshma-2517&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Reshma-2517&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
